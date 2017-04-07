@@ -18,6 +18,7 @@ design](https://github.com/escornabot/electronics).
 - Right wheel [wheel-r.stl](brivoi-compactus/wheel-r.stl)
 - EscornaCPU 2.10 bracket [escornacpu-2\_10-bracket.stl](brivoi-compactus/escornacpu-2_10-bracket.stl)
 - EscornaCPU 2.20 bracket [escornacpu-2\_20-bracket.stl](brivoi-compactus/escornacpu-2_20-bracket.stl)
+- EscornaCPU 3.00 bracket [escornacpu-3\_00-bracket.stl](brivoi-compactus/escornacpu-3_00-bracket.stl)
 
 
 Source files [here](brivoi-compactus).
